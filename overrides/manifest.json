@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
     {
-      "path": "src/UI/Components/MobileHud.r8.css",
-      "url": "encrypted/src/UI/Components/MobileHud.r8.css.enc",
+      "path": "src/UI/Components/MobileHud.r9.css",
+      "url": "encrypted/src/UI/Components/MobileHud.r9.css.enc",
       "algorithm": "A256GCM",
-      "nonce": "JzYVvBD6GoBs15al",
-      "ciphertextSha256": "f02b2d01f592b44e7c452a93a57a11a13bf0aefd2a7401b5689829a92997f3d1",
+      "nonce": "jevpHDti7nC66Bk6",
+      "ciphertextSha256": "fcddb03fbf5e77b9369fa90431a2c5074a9f46e7436a7889d319aab93ca696f6",
       "plaintextSha256": "d2e421340677e99c6aa521495f58945d1e1754a790dfc904ceb8123483d40f8c",
       "enabled": true
     }
