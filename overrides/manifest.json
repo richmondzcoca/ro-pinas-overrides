@@ -1,16 +1,151 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
     {
-      "path": "src/UI/Components/MobileHud.r9.css",
-      "url": "encrypted/src/UI/Components/MobileHud.r9.css.enc",
+      "path": "src/Core/Mobile.js",
+      "url": "encrypted/src/Core/Mobile.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "jevpHDti7nC66Bk6",
-      "ciphertextSha256": "fcddb03fbf5e77b9369fa90431a2c5074a9f46e7436a7889d319aab93ca696f6",
-      "plaintextSha256": "d2e421340677e99c6aa521495f58945d1e1754a790dfc904ceb8123483d40f8c",
+      "nonce": "WOYQ3xQLF/bR48os",
+      "ciphertextSha256": "89cd3aae07b6c125c48fb9a7764f58a219d6a609141afcb79b6c81058572512a",
+      "plaintextSha256": "9d1b23f2c5a89fa96fa46cdb9ad2273636ebafdbdb0891658ad89e2032af5eff",
+      "enabled": true
+    },
+    {
+      "path": "src/Engine/SessionStorage.js",
+      "url": "encrypted/src/Engine/SessionStorage.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "IHZb3lFAS6SYmttM",
+      "ciphertextSha256": "c32365095a62f170d858c4225e63ac9ef0758559b435ed9aaa32965d5bfbffaa",
+      "plaintextSha256": "381c6d9d05e0581abcee5104d32f33036f9f1acfb3ad5efdd843822db4928e91",
+      "enabled": true
+    },
+    {
+      "path": "src/Network/NetworkManager.js",
+      "url": "encrypted/src/Network/NetworkManager.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "N31DTC3QJwGBOHGl",
+      "ciphertextSha256": "88f9934a90cbbc59b06e657879dcd9d022a91f2d5203d817a800ea65d4931ea5",
+      "plaintextSha256": "29924ed4b4c22466734a096364222d852a1e9bc96200f9da99c0da5b93ae61e7",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/.headers",
+      "url": "encrypted/src/UI/Components/MobileUI/.headers.enc",
+      "algorithm": "A256GCM",
+      "nonce": "Jq6VVTsAbqFoC1MO",
+      "ciphertextSha256": "5d1646b10ead14d67443c6f163e2e08d01333b859a82c035dffac1d863c5507c",
+      "plaintextSha256": "0249545672ab6ae902845be51200f0a8a16fb70415bd0f8b67304f2e5cd0a38d",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/AutoBuffSettings.js",
+      "url": "encrypted/src/UI/Components/MobileUI/AutoBuffSettings.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "RrMJ51BxddWNXGcB",
+      "ciphertextSha256": "06c4d1f059096ae7b6fd0c5b11beef7d68b07f49349ace7d595b1a73fd929021",
+      "plaintextSha256": "cb6376ca906f51cf747bbc011ff4fc59dae00e03c2c1322f73c1092527f11695",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/AutoHealSettings.js",
+      "url": "encrypted/src/UI/Components/MobileUI/AutoHealSettings.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "DKe4nj+EeZKcJYgH",
+      "ciphertextSha256": "3e1cb5acb4d78b538ad1d438f6e99494615572ae07e5160d0a4ddc143b85d038",
+      "plaintextSha256": "ddec6515e4f63f18e7bd24ba328e1fd92b1da835878980d9b757c2c769db71b9",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/AutoSkillSettings.js",
+      "url": "encrypted/src/UI/Components/MobileUI/AutoSkillSettings.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "VQgGH82HtWIKw5bd",
+      "ciphertextSha256": "87f17ede95d11f54102339c49edd5314c56e08b29019c10782ff8d6c8ac88eb6",
+      "plaintextSha256": "e8c0a5c24f6f3d1ee50088d0751d9e4bda7166268dbf4e419ccec1c68189d308",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/MobileAutoPanel.js",
+      "url": "encrypted/src/UI/Components/MobileUI/MobileAutoPanel.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "z+4WP7zvKJrufUmw",
+      "ciphertextSha256": "214c6e193d942b4c465f32d0c23172dee29c29123eaa35a213eb92171fcf1d05",
+      "plaintextSha256": "bd37bdd9580fd823a12e5d524c713763811c84fad145dd4aff6125a976146a01",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/MobileEntityPanel.js",
+      "url": "encrypted/src/UI/Components/MobileUI/MobileEntityPanel.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "ezeKwdAIzRKZ+NvW",
+      "ciphertextSha256": "b72f00ece7e22d5724d6223c3d074433d7161db7aa335ad0ca820a6236f31c49",
+      "plaintextSha256": "5daf0f5aea0de73b7b2d7104d5c9190311957039e40f42c231f09807321afb1f",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/MobileHeadPortrait.js",
+      "url": "encrypted/src/UI/Components/MobileUI/MobileHeadPortrait.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "rULdmQO0fdsjU3AD",
+      "ciphertextSha256": "d25b89a07759e7f9d399c8504a01ffcbcfaa0ca6e6d3ef7ab8518dcc7a80a186",
+      "plaintextSha256": "0c272a987f4f171e80408846cd16e0d7caa661b5fe36057985a0a0314e203efd",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/MobileHud.js",
+      "url": "encrypted/src/UI/Components/MobileUI/MobileHud.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "jNJvncRKpK/6Rmor",
+      "ciphertextSha256": "3dd7b2741893cd2c7a4dcf952b68d7277bb0e74a28152ff31161f2d9fa1dcf35",
+      "plaintextSha256": "5422157198b9b2e3364fa30abe7f65bced5ae65798e5d085f2d941d9e7f3e114",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/MobileTouchDrag.js",
+      "url": "encrypted/src/UI/Components/MobileUI/MobileTouchDrag.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "By8ei6ZHz1bX7gTQ",
+      "ciphertextSha256": "edfa5f60a588b8f7979d69f93f4298de3e88c3f1be5430912b18e58e72e048d7",
+      "plaintextSha256": "44428ae6eab8f5d144ad30ff2238a02a47bf7d94805275c71f734b8e9987de82",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/MobileUI.js",
+      "url": "encrypted/src/UI/Components/MobileUI/MobileUI.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "KP2mesLsK4pAxCTq",
+      "ciphertextSha256": "0141603e0ab3155cc22702d1903a41a2b4e8021ca504fb53e5d2924a3b9fc18b",
+      "plaintextSha256": "38397c9bf26ecec6ce366a0dd71f5bc199ce681046353d4e703bdc852af5d331",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/MobileWindowFit.js",
+      "url": "encrypted/src/UI/Components/MobileUI/MobileWindowFit.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "J46M1Er9PeUcxw17",
+      "ciphertextSha256": "ff6c715f76a3e5812a2a2a2662d49dbfb5f4f869f98ad636a4cfff9fa2d8c620",
+      "plaintextSha256": "0e9d40af79cdf74da85f4bceb9a75c36690bc72f0a634358916e2a2df42c6a49",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/MobileWindows.js",
+      "url": "encrypted/src/UI/Components/MobileUI/MobileWindows.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "QGxd6u+Fmsi1gOKz",
+      "ciphertextSha256": "19ce92391fad9bd83eb8993158cf07edd0b3b730749a0282fc7b0b4a81ce5abf",
+      "plaintextSha256": "390f13e462f3ba0cde8df70c0c0d0b8fc4cd3e302e65f5c65335bf96992dab2d",
+      "enabled": true
+    },
+    {
+      "path": "src/UI/Components/MobileUI/WalkRoutes.js",
+      "url": "encrypted/src/UI/Components/MobileUI/WalkRoutes.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "zz21vV3ZNAT38Ma3",
+      "ciphertextSha256": "5c0a0457200a7b33218a5b1a001a92c4074f2eb4ae17c0b7f26b17f77a47a2ee",
+      "plaintextSha256": "21d6bad9404e9a2d01d105d37c47d5a13be16c6355f72477bad5c82f7deb41b4",
       "enabled": true
     }
   ]
