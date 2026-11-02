@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 3,
+  "version": 4,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -143,9 +143,9 @@
       "path": "src/UI/Components/MobileUI/WalkRoutes.js",
       "url": "encrypted/src/UI/Components/MobileUI/WalkRoutes.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "M2T4AjYs1x1EdO1v",
-      "ciphertextSha256": "486f3cc7844393dc8143fba06883ea85f5275060a2bf02d96de9ff5f971cc758",
-      "plaintextSha256": "b3945798f499cae75cb8062199c61265acb3ed53f9d0de8588ba8f8a42094e6b",
+      "nonce": "gZIoerOID5Y66Pma",
+      "ciphertextSha256": "7c04f563d433db942197f496a62a7497e465f0f66acd8745439401d7c446458d",
+      "plaintextSha256": "7703604fcb84e6eda248f435c746076f42ecde921c239ab04a88fc140d60f333",
       "enabled": true
     }
   ]
