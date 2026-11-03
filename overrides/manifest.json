@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 9,
+  "version": 11,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -71,9 +71,9 @@
       "path": "src/UI/Components/MobileUI/MobileAutoPanel.js",
       "url": "encrypted/src/UI/Components/MobileUI/MobileAutoPanel.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "z+4WP7zvKJrufUmw",
-      "ciphertextSha256": "214c6e193d942b4c465f32d0c23172dee29c29123eaa35a213eb92171fcf1d05",
-      "plaintextSha256": "bd37bdd9580fd823a12e5d524c713763811c84fad145dd4aff6125a976146a01",
+      "nonce": "kKLYxFwD7FYztw+q",
+      "ciphertextSha256": "2186a3f84850ad935eb65b3bda424cb30ea93e172f2c5dba1a89256751224ba7",
+      "plaintextSha256": "82844df09b51605220ed821e3ba310b30f8d2e5e42cb1a9dd249e5f0f54f56b4",
       "enabled": true
     },
     {
@@ -116,9 +116,9 @@
       "path": "src/UI/Components/MobileUI/MobileUI.js",
       "url": "encrypted/src/UI/Components/MobileUI/MobileUI.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "BWFwuL7FfqXE4vM+",
-      "ciphertextSha256": "6c83627dfdc5690b081de319d16771d14d46c9718ec66271cc2dfd2925da3a35",
-      "plaintextSha256": "ba086072ae09d310f6029e838d81288c83a5c416b5216b0d8ff4ff21a365a75a",
+      "nonce": "Fy7bTkf3//aEzBkx",
+      "ciphertextSha256": "523c0ffd7a556f2c25c8da9ac7b088b797f5c525569c42460e393d1a191150f5",
+      "plaintextSha256": "942f162c1009213f910dbbfface1aaf37a66491ad581b06d970c95dca1efecab",
       "enabled": true
     },
     {
