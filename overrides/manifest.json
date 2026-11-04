@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 12,
+  "version": 13,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -71,9 +71,9 @@
       "path": "src/UI/Components/MobileUI/MobileAutoPanel.js",
       "url": "encrypted/src/UI/Components/MobileUI/MobileAutoPanel.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "kKLYxFwD7FYztw+q",
-      "ciphertextSha256": "2186a3f84850ad935eb65b3bda424cb30ea93e172f2c5dba1a89256751224ba7",
-      "plaintextSha256": "82844df09b51605220ed821e3ba310b30f8d2e5e42cb1a9dd249e5f0f54f56b4",
+      "nonce": "gfci17Vp+Cz/sOZe",
+      "ciphertextSha256": "98bf4a25eefc73eb6ed25e915a8016eb060771d09a73c9f1590235fb9aae0cf5",
+      "plaintextSha256": "2df79860c1d843403e4ce60f5541312796ff01e071ec638880b4c238a30c6994",
       "enabled": true
     },
     {
