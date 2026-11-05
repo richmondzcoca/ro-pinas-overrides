@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 20,
+  "version": 21,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -26,9 +26,9 @@
       "path": "src/Network/NetworkManager.js",
       "url": "encrypted/src/Network/NetworkManager.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "N31DTC3QJwGBOHGl",
-      "ciphertextSha256": "88f9934a90cbbc59b06e657879dcd9d022a91f2d5203d817a800ea65d4931ea5",
-      "plaintextSha256": "29924ed4b4c22466734a096364222d852a1e9bc96200f9da99c0da5b93ae61e7",
+      "nonce": "buDeEBVxx7aTQhQD",
+      "ciphertextSha256": "51709671ba09a40dfdc01ea11c1a7d96396e0c51140479703e5066b56623509e",
+      "plaintextSha256": "48ecaa9152e8b401a8283754cef0af455402cbf802bdbe0bdc6dbd06cfd7ccbc",
       "enabled": true
     },
     {
