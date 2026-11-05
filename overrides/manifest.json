@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 19,
+  "version": 20,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -116,9 +116,9 @@
       "path": "src/UI/Components/MobileUI/MobileUI.js",
       "url": "encrypted/src/UI/Components/MobileUI/MobileUI.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "wi8egBs+ecG8X3kM",
-      "ciphertextSha256": "a5dc2c76dc4d714cef941f0e5e04229e3b4ff629f3a530642b8baccb7ffa04c0",
-      "plaintextSha256": "6ddc53946a3fcd72ff2648601362f0f531b5d8ed87e642ef63460256284e8fcf",
+      "nonce": "9RBQKwdSrL9EhHO1",
+      "ciphertextSha256": "1ccc98093264844a4c324fb008723146685bfd441eb62adce6784f832df53be6",
+      "plaintextSha256": "1a027bec2361afc15d9c85e09e6ed25e0ee9abaaf534d3c8a2c7c1e41ad8716c",
       "enabled": true
     },
     {
