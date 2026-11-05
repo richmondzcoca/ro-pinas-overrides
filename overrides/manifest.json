@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 21,
+  "version": 22,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -26,9 +26,9 @@
       "path": "src/Network/NetworkManager.js",
       "url": "encrypted/src/Network/NetworkManager.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "buDeEBVxx7aTQhQD",
-      "ciphertextSha256": "51709671ba09a40dfdc01ea11c1a7d96396e0c51140479703e5066b56623509e",
-      "plaintextSha256": "48ecaa9152e8b401a8283754cef0af455402cbf802bdbe0bdc6dbd06cfd7ccbc",
+      "nonce": "qALKzv2Qwk/Vm9l3",
+      "ciphertextSha256": "fdb65105faec956754da34d3fe01260e14575f8e8d735b303ec9f876fd768127",
+      "plaintextSha256": "29924ed4b4c22466734a096364222d852a1e9bc96200f9da99c0da5b93ae61e7",
       "enabled": true
     },
     {
@@ -116,9 +116,9 @@
       "path": "src/UI/Components/MobileUI/MobileUI.js",
       "url": "encrypted/src/UI/Components/MobileUI/MobileUI.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "9RBQKwdSrL9EhHO1",
-      "ciphertextSha256": "1ccc98093264844a4c324fb008723146685bfd441eb62adce6784f832df53be6",
-      "plaintextSha256": "1a027bec2361afc15d9c85e09e6ed25e0ee9abaaf534d3c8a2c7c1e41ad8716c",
+      "nonce": "RsPPa1LGMBKpanvG",
+      "ciphertextSha256": "db6a43f8eb47f0ea85f38738a6166149d841f524a655045df64f444960e2add0",
+      "plaintextSha256": "355a986efe11f9e90556f6726f3bb33e2acb879323dc577bfb1120297fdee96a",
       "enabled": true
     },
     {
