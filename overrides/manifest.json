@@ -1,9 +1,18 @@
 {
   "schemaVersion": 1,
-  "version": 25,
+  "version": 26,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
+    {
+      "path": "src/Audio/SoundManager.js",
+      "url": "encrypted/src/Audio/SoundManager.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "MHj4WMWWQM5E/L5J",
+      "ciphertextSha256": "c82b93aa477be01725633e7b38a593d21e8fe7a57fe28be093c87ac3186b528e",
+      "plaintextSha256": "2acfecd64fc5d52684a21ded3d512f7f8c28358821b002407c6d8ba30bf9b085",
+      "enabled": true
+    },
     {
       "path": "src/Core/Mobile.js",
       "url": "encrypted/src/Core/Mobile.js.enc",
