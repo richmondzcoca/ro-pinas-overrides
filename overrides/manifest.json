@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 23,
+  "version": 24,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -35,18 +35,18 @@
       "path": "src/Renderer/Entity/EntityRender.js",
       "url": "encrypted/src/Renderer/Entity/EntityRender.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "bFoOi8V+HtYffFaj",
-      "ciphertextSha256": "d925566994e619e1e1914a7a4360fe4aeee178f7bce1990ec4e3c94b9cecfa64",
-      "plaintextSha256": "02bbc674a4a1cdc33facf5940df08bde2630aebebdf8d2f8887f21f6b4babc09",
+      "nonce": "90BnMufM+j1BrL7m",
+      "ciphertextSha256": "ea75463f37fad0d262d89983d37713d24f68bd9bf79ed41260094fd09660a88d",
+      "plaintextSha256": "7916509f88d059ddad700d67f93302874c0f0710c0b39fbe3afe45ffcb4357ec",
       "enabled": true
     },
     {
       "path": "src/Renderer/EntityManager.js",
       "url": "encrypted/src/Renderer/EntityManager.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "bg29RKTe4Hq/Pkab",
-      "ciphertextSha256": "c32918dcb94fc2c3ef3fa2905e393dd90373f698ed8843b4a1d62b3af66f50e2",
-      "plaintextSha256": "9018955862da359f5ff8201bac92f95a0e692ed1eacccc0942b4f3ae208591e8",
+      "nonce": "JY6+F7pDE4T5RiEu",
+      "ciphertextSha256": "417fd2fc7b19db7345cd242874e0733f0d1a901315513849833667b6b386abba",
+      "plaintextSha256": "0b8e59442a97f54522db29728f02dea44fd0e7b358b8837076a0430b0f31bb0b",
       "enabled": true
     },
     {
