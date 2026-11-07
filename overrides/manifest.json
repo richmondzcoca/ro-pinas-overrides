@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 24,
+  "version": 25,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -47,6 +47,15 @@
       "nonce": "JY6+F7pDE4T5RiEu",
       "ciphertextSha256": "417fd2fc7b19db7345cd242874e0733f0d1a901315513849833667b6b386abba",
       "plaintextSha256": "0b8e59442a97f54522db29728f02dea44fd0e7b358b8837076a0430b0f31bb0b",
+      "enabled": true
+    },
+    {
+      "path": "src/Renderer/Renderer.js",
+      "url": "encrypted/src/Renderer/Renderer.js.enc",
+      "algorithm": "A256GCM",
+      "nonce": "8B9xhf0CpCXVJY+7",
+      "ciphertextSha256": "b3bb793078108e8f5f907efce55903b6296a3f62692b990513fc9562447fb291",
+      "plaintextSha256": "3a353bf770cd60da648d3c62c72160245f5702e06d8646652d7262642669fad3",
       "enabled": true
     },
     {
