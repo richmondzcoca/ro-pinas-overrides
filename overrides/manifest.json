@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 28,
+  "version": 29,
   "minimumAppVersion": "0.1.0",
   "encryption": "AES-256-GCM",
   "files": [
@@ -170,9 +170,9 @@
       "path": "src/UI/Components/MobileUI/MobileWindowFit.js",
       "url": "encrypted/src/UI/Components/MobileUI/MobileWindowFit.js.enc",
       "algorithm": "A256GCM",
-      "nonce": "J46M1Er9PeUcxw17",
-      "ciphertextSha256": "ff6c715f76a3e5812a2a2a2662d49dbfb5f4f869f98ad636a4cfff9fa2d8c620",
-      "plaintextSha256": "0e9d40af79cdf74da85f4bceb9a75c36690bc72f0a634358916e2a2df42c6a49",
+      "nonce": "mW0FdYvD9e8jB8qi",
+      "ciphertextSha256": "66f0f3fb938d62d8a179cbc24ce5dbfca7292ba7a5fca3ab8f71de79c7601c2d",
+      "plaintextSha256": "6f39123c8e92c0c22bb405876353b3ef78ccfe83271a37494109dab7d7428eb8",
       "enabled": true
     },
     {
